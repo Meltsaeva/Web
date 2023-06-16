@@ -1,0 +1,23 @@
+strong{
+    background-color: #6e6d78;
+}
+body{
+    background-color: antiquewhite;
+}
+ol{
+    color: #27263d;
+}
+ul{
+    color: #8b7aa8;
+}
+p{
+    color: #27263d;
+}
+.text{
+    color: #8b7aa8;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
